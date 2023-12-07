@@ -1,5 +1,5 @@
 ## Topic modeling using the NMF concept
-### I try my best to write your names correctly
+### I tried my best to write your names correctly
 <ul>
   <li>Youssef</li>
   <li>MASIGH KER</li>
