@@ -3,7 +3,7 @@
 <ul>
   <li>Youssef</li>
   <li>MASIGH KER</li>
-  <li>Si j'ai bien cmpris</li>
+  <li>Si j'ai bien compris</li>
   <li>Imane</li>
   <li>Lamia</li>
   <li>Wissem</li>
