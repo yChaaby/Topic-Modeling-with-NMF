@@ -2,7 +2,15 @@
 
 This project demonstrates the application of **Non-Negative Matrix Factorization (NMF)** for topic modeling on a dataset of abstracts. Below, you will find a detailed explanation of the dataset, target variable, mathematical background of NMF, and evaluation methodology.
 
----
+```python
+"""
+## 📂 Project Structure
+├── data/
+│   └── NLP_Topic_modeling_Data.csv  # abstracts with 31 discipline labels
+├── NMF_TOPIC_MODELING.ipynb         # Full analysis pipeline
+└── README.md                        # Documentation
+"""
+```
 
 ## Data Description
 
