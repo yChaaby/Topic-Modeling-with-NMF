@@ -93,8 +93,8 @@ The evaluation was conducted using:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Topic-Modeling-with-NMFt
+   cd Topic-Modeling-with-NMF
    ```
 2. Installing libraries:
    ```python
